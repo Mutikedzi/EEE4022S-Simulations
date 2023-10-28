@@ -1,8 +1,8 @@
 # EEE4022S-Simulations
 
-To get the combined results, run the coresponding codes first(arrival splitting and service splitting) for each parameter being changed. The codes are named according ti the parameters n=being changed. After running the codes, the combined results are afound by running the following codes on comand window:
+To get the combined results, run the corresponding codes first(arrival splitting and service splitting) for each parameter being changed. The codes are named according to the parameters n=being changed. After running the codes, the combined results are found by running the following codes on command window:
 
-New Call arrival Rate  Ploting 
+New Call Arrival Rate  Ploting 
 Probabilities 
 
 figure; 
