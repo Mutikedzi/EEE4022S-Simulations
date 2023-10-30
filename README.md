@@ -5,7 +5,7 @@ The codes are named according to the parameters being changed. For example, "Arr
 
 # Running Codes
 
-# New Call Arrival Rate  Ploting 
+# Effect of New Call Arrival Rate  Ploting 
 Run "Arrival_new_call.mlx" and "Service_new_call.mlx" first on LiveScript and then run the following code on the command window:
 
 To get Probabilities:
