@@ -5,7 +5,7 @@ The codes are named according to the parameters being changed. For example, "Arr
 
 # Running Codes
 
-#New Call Arrival Rate  Ploting 
+# New Call Arrival Rate  Ploting 
 Run "Arrival_new_call.mlx" and "Service_new_call.mlx" first on LiveScript and then run the following code on the command window:
 
 To get Probabilities:
@@ -39,7 +39,7 @@ legend('Location', 'NorthWest');
 
   
 
-#Effect of changing bandwidth
+# Effect of changing bandwidth
 
 Run "Arrival_bbu.mlx" and "Service_bbu.mlx" first on Livescript and then run the following code on the command window:
 
@@ -75,7 +75,7 @@ legend('Location', 'NorthWest');
 
    
 
-#Effect of Departure rate Ploting 
+# Effect of Departure rate Ploting 
 
 Run "Arrival_departure.mlx" and "Service_departure.mlx" first on LiveScript and then run the following code on the command window:
 
